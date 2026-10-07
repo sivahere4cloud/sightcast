@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Sightcast: my own test images and generated audio stay local
+samples/
+outputs/

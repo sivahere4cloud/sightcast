@@ -1,0 +1,17 @@
+[project]
+name = "sightcast"
+version = "0.1.0"
+description = "Image narrator: upload a photo, get a caption, then hear it read aloud. Built with open-source Hugging Face models and Gradio."
+readme = "README.md"
+authors = [
+    { name = "sivahere4cloud", email = "sivaganeshcloud@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+sightcast = "sightcast:main"
+
+[build-system]
+requires = ["uv_build>=0.12.13,<0.13.0"]
+build-backend = "uv_build"
