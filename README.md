@@ -39,6 +39,8 @@ Colab may print a temporary public link. Anyone with that link can use your runn
 
 Environment used on 7 October 2026: Tesla T4 (15 GB), Python 3.13.15, transformers 5.18.0, torch 2.11.0+cu130, gradio 6.29.0, datasets 4.8.5. The notebook does not pin versions, so a newer Colab image may behave differently.
 
+<img width="945" height="490" alt="image" src="https://github.com/user-attachments/assets/6aa9539f-a892-47a5-9cc2-c5000f091e87" />
+
 ## Models
 
 All are ungated and need no token or licence-acceptance page. Licences and gated status were checked on the Hugging Face Hub on 7 October 2026.
